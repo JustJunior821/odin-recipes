@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(145, 228, 253);
+}
+
+h1,
+h2 {
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Times New Roman', sans-serif;
+}
+
+
+.topic {
+    text-align: center;
+}
+
+ ul li,
+ ol li {
+    font-family: Georgia, Cambria, sans-serif;
+    color: red;
+    text-align: left;
+}
